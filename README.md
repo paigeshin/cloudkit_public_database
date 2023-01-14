@@ -1,7 +1,6 @@
 # cloudkit_public_database
 
 ```swift
-```swift
 import CloudKit
 import UIKit
 
@@ -140,5 +139,4 @@ class ViewController: UIViewController, UITableViewDataSource {
     }
 
 }
-```
 ```
